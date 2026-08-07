@@ -1,0 +1,16 @@
+# Ambiente virtual Python
+.venv/
+venv/
+ENV/
+
+# Arquivos de cache e compilação
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Configurações locais do VS Code e ambiente
+.vscode/
+.env
+
+# Armazenamento vetorial (RAG futuro)
+.chroma_db/
